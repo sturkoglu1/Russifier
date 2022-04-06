@@ -1,0 +1,34 @@
+body{
+    font-size: 18px;
+    background-image: url('bg.png');
+    color: white;
+    font-weight: bold;    
+}
+button{
+    font-style: italic;
+    height: 134px;
+    width: 556px;
+    background-image: url('button.png');
+    cursor: pointer;
+}
+textarea{
+    resize: none;
+    width: 290px;
+    columns: auto;
+    background-color: wheat;
+}
+output{
+    height: 200px;
+    width: 500px;
+}
+input{
+    height: 200px;
+    width: 200px;
+}
+#lblOutput{
+    margin-left: 10px;
+}
+#mainDiv{
+    margin: auto;
+    max-width: 50%;
+}
